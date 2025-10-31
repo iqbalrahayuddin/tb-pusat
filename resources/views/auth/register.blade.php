@@ -116,7 +116,7 @@
 
                         <div class="mt-5 text-center">
                             <p>©
-                                <script>document.write(new Date().getFullYear())</script> Clivax. Crafted with <i class="mdi mdi-heart text-danger"></i> by Codebucks
+                                <script>document.write(new Date().getFullYear())</script>  TB Pusat - PP. Darussalam Blokagung
                             </p>
                         </div>
                         </div>
