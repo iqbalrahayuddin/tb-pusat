@@ -21,3 +21,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/public/index.php
+/public/favicon.ico
+/public/robots.txt
+/public/robots.txt
