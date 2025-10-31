@@ -108,7 +108,7 @@
                                 </div>
 
                                 <div class="mt-3 text-center">
-                                    <p class="mb-0">Already have an account ? <a href="auth-login.php" class="fw-medium text-primary"> Login </a> </p>
+                                    <p class="mb-0">Already have an account ? <a href="login" class="fw-medium text-primary"> Login </a> </p>
                                 </div>
                                 
                                 </form>
