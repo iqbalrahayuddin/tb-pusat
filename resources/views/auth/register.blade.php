@@ -20,10 +20,10 @@
                         <div class="text-center">
                             <div>
                                 <a href="index.php" class="logo-dark">
-                                    <img src="/assets/images/logo-dark.png" alt="" height="20" class="auth-logo logo-dark mx-auto">
+                                    <img src="/assets/images/tbpusat-light.png" alt="" height="20" class="auth-logo logo-dark mx-auto">
                                 </a>
                                 <a href="index.php" class="logo-light">
-                                    <img src="/assets/images/logo-light.png" alt="" height="20" class="auth-logo logo-light mx-auto">
+                                    <img src="/assets/images/tbpusat-dark.png" alt="" height="20" class="auth-logo logo-light mx-auto">
                                 </a>
                             </div>
 
